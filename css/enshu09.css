@@ -1,0 +1,16 @@
+p.bluecolor{
+    color: blue;
+}
+
+h1#aaa{
+    font-family: impact;
+    font-size: :60px;
+}
+
+h2{
+    color:red !important;
+}
+
+h2:hover{
+    background-color:aqua;
+}
