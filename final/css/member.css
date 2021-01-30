@@ -1,0 +1,81 @@
+@import url("https://github.com/e204157yr/e204157yr.github.io/tree/0b2f8bfaafed3397173cd1568dda47a3a9ac7afd/images");
+
+span.title{
+    width: 1000px;
+    height: 100px;
+    font-size: 50px;
+    margin:0px 0px 0px 0px; 
+    vertical-align: bottom;
+    font-family: "Haettenschweiler";
+    
+}
+span.menuitem{
+    width: 1000px;
+    height: 100px;
+    font-size: 20px;
+    margin:0px 0px -10px 40px; 
+    vertical-align: bottom;
+    font-family: "Haettenschweiler";
+}
+span.rogo{
+    background-image:url(../images/BiSHrogo.jpg);
+    font-size:0;
+    width:1000px;
+}
+h1{
+    
+    color:#ffffff;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:#333333;
+    width:1250px;
+}
+h2{
+    color:#ffffff;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:#333333;
+    width:1250px;
+}
+
+
+body{
+    font-size:0;
+    width:1250px;
+}
+img {
+    margin:0px ; 
+    padding: 0px;
+    width: 23%;
+    height: 0%;
+}
+img.a{
+    margin:0px -0px -5px 10px; 
+    padding: 0px;
+    width: 10%;
+    height: 10%;
+}
+p{
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;
+    color:#000;
+    margin: 0px 0px 0px 0px;
+}
+a{
+    color: black;
+}
+address{
+    font-size:0px;
+    text-align:right;
+    color:#000;
+}
+address{
+    font-size:10px;
+    text-align:right;
+    color:#000;
+}
