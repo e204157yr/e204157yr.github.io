@@ -1,0 +1,54 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: "impact";
+    margin-bottom:20px;
+    padding:10px 0px 0px 0px;
+}
+
+div.mannaka{
+    width: 1000px;
+    height: 320px;
+    background-color: white;
+    font-size:0;  
+    margin:0px 0px 0px 0px; 
+    display: inline-block
+}
+
+div.left{
+    width: 250px;
+    height: 320px;
+    font-size:30px;
+    margin:0px 0px 0px 0px; 
+    background-color: red;
+    vertical-align: top;
+    display:inline-block;
+}
+
+div.right{
+    width: 700px;
+    height: 320px;
+    font-size:30px;
+    margin:0px 0px 0px 350px; 
+    background-color: red;
+    vertical-align: top;
+    display:inline-block;
+}
+
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: black;
+    color: black;
+    font-size: 15px;
+    text-align: right;
+    margin-top:20px;
+}
+
+div.menu{
+    font-size:0;
+    width:1000px;
+}
